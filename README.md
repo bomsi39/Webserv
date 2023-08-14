@@ -1,12 +1,12 @@
 # Webserv
 
-Welcome to the Webserv project! In this project, we delve into the world of HTTP (Hypertext Transfer Protocol) and build an HTTP server in C++98. The primary goal is to create a fully functional and non-blocking web server that adheres to the HTTP protocol and serves web content to clients.
+Welcome to school 42's Webserv project! In this project, we delve into the world of HTTP (Hypertext Transfer Protocol) and build an HTTP server in C++98. The primary goal is to create a fully functional and non-blocking web server that adheres to the HTTP protocol and serves web content to clients.
 
 ## Table of Contents
 - [Get Started](#get-started)
 - [Introduction](#chapter-i-introduction)
 - [General Rules](#chapter-ii-general-rules)
-- [Mandatory Part](#chapter-iii-mandatory-part)
+- [Subject](#chapter-iii-subject)
 
 ## Get Started
 
@@ -37,7 +37,7 @@ In this chapter, we outline the general rules and guidelines for implementing th
 - Whenever possible, use C++ features over C functions, but you can use C functions if needed.
 - External libraries, including Boost, are forbidden.
 
-## Chapter III Mandatory Part
+## Chapter III Subject
 
 ### Requirements
 
