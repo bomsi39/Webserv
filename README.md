@@ -1,6 +1,6 @@
 # Webserv
 
-Welcome to school 42's Webserv project! In this project, we delve into the world of HTTP (Hypertext Transfer Protocol) and build an HTTP server in C++98. The primary goal is to create a fully functional and non-blocking web server that adheres to the HTTP protocol and serves web content to clients.
+Welcome to MY implementation of school 42's Webserv project! In this project, we delved into the world of HTTP (Hypertext Transfer Protocol) and build an HTTP server in C++98. The primary goal was to create a fully functional and non-blocking web server that adheres to the HTTP protocol and serves web content to clients.
 
 ## Table of Contents
 - [Get Started](#get-started)
