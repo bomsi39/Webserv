@@ -60,4 +60,4 @@ The configuration file allows you to:
 - Limit client body size.
 - Configure routes with accepted HTTP methods, redirections, directories, file roots, directory listing, default files, CGI execution, and file uploads.
 
-### By dmf39 (alias dfranke) and Gotr-byte (pbiedermann)
+### By dmf39 (alias dfranke) and Gotr-byte (alias pbiedermann)
