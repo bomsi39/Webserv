@@ -16,7 +16,7 @@ To use the `webserv` program, follow these steps:
 
 2. **Compile the Program**: Run `make` to compile the program. This generates the `webserv` executable.
 
-3. **Run the Web Server**: Start the web server by running `./webserv [configuration_file]`, replacing `[configuration_file]` with the path to your configuration file. If no file is provided, the default will be used.
+3. **Run the Web Server**: Start the web server by running `./webserv [configuration_file]`, replacing `[configuration_file]` with the path to your configuration file.
 
 4. **Example**: For instance, to use a configuration file named `my_config.conf` located in the `config_files` directory, run:
    ```sh
